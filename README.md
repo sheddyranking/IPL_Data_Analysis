@@ -29,3 +29,9 @@ group the `match_id,inning,batting_team,bowling teams,total_runs` reset_index an
 
 ##### bowling_team score>=200
 ![bowling_team_higher_team](https://user-images.githubusercontent.com/42388234/161381294-a4203c42-f0f2-414a-af2a-6d1cb073a5c5.png)
+
+
+#### Problem Statement=>  Batsman Comparison
+
+ Do a `groupby` to return `batsman_runs`,`ball` played by each batmans,`4s` count by each batsman,`6s` count by each batsman `strike_rate`, `max_runs` and concate all in one table.
+ 
