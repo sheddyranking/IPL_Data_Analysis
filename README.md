@@ -35,3 +35,13 @@ group the `match_id,inning,batting_team,bowling teams,total_runs` reset_index an
 
  Do a `groupby` to return `batsman_runs`,`ball` played by each batmans,`4s` count by each batsman,`6s` count by each batsman `strike_rate`, `max_runs` and concate all in one table.
  
+ 
+#### Problem Statement=> Top 10 Batsman
+
+Sum the Grouped `batsman` and `batsman_runs` and sort the in decending order,filter the top 10 and plot.
+ 
+ 
+ 
+ 
+ 
+ 
