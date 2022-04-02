@@ -7,7 +7,6 @@ Filter out where `batsman` equal to `David Werner`,store in a new `df`  you can 
 
 ##### Dismissal kind.
 ![dismissal_kind](https://user-images.githubusercontent.com/42388234/160950464-051777c2-9bea-48dd-aa69-1e00864a49e4.png)
-
 ##### Batsman runs.
 ![batsman_run](https://user-images.githubusercontent.com/42388234/160950466-fb3e5172-ba6a-43ff-aa08-e7ce02835b45.png)
 
@@ -18,3 +17,5 @@ Abbreviate the `batting and bowling teams`, group the `match_id,inning,batting_t
 #### Problem Statement=> How many Teams Score more than 200?
 
 group the `match_id,inning,batting_team,bowling teams,total_runs` reset_index and filter where score>=200  and plot the teams teams scores.
+
+
