@@ -23,13 +23,11 @@ Abbreviate the `batting and bowling teams`, group the `match_id,inning,batting_t
 #### Problem Statement=> How many Teams Score more than 200?
 
 group the `match_id,inning,batting_team,bowling teams,total_runs` reset_index and filter where score>=200  and plot the teams scores.
-
 ##### batting_team score>=200
 ![batting_team_higher_score](https://user-images.githubusercontent.com/42388234/161381296-be98232a-a436-42a7-8f9e-77262cce742f.png)
 
 ##### bowling_team score>=200
 ![bowling_team_higher_team](https://user-images.githubusercontent.com/42388234/161381294-a4203c42-f0f2-414a-af2a-6d1cb073a5c5.png)
-
 
 #### Problem Statement=>  Batsman Comparison
 
@@ -49,6 +47,7 @@ Sum the Grouped `batsman` and `batsman_runs` and sort the in decending order,fil
  Analyses the `Dismissal_kind` and plot
 
 
+ 
  
  
  
