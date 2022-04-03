@@ -43,7 +43,7 @@ Sum the Grouped `batsman` and `batsman_runs` and sort the in decending order,fil
  
 #### problem Statement  Top 10 individual Scores by batsman
 
- Do a groupby on `match_id`,`batsman`,`batting_team`,`batsman_runs`, and sum them, sort the values by the `batsman_runs` in decending order and the top 10 heads.
+ Do a groupby on `match_id`,`batsman`,`batting_team`,`batsman_runs`, and sum them, sort the values by the `batsman_runs` in decending order and return top 10 heads.
  
  #### problem Statement =>  Wicket Takers
  
