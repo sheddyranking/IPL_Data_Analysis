@@ -44,8 +44,11 @@ Sum the Grouped `batsman` and `batsman_runs` and sort the in decending order,fil
 
  Do a groupby on `match_id`,`batsman`,`batting_team`,`batsman_runs`, and sum them, sort the values by the `batsman_runs` in decending order and the top 10 heads.
  
+ #### problem Statement =>  Wicket Takers
  
- 
+ Analyses the `Dismissal_kind` and plot
+
+
  
  
  
