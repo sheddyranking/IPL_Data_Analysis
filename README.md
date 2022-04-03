@@ -37,6 +37,9 @@ group the `match_id,inning,batting_team,bowling teams,total_runs` reset_index an
 #### Problem Statement=> Top 10 Batsman
 
 Sum the Grouped `batsman` and `batsman_runs` and sort the in decending order,filter the top 10 and plot.
+
+##### Top 10 Batsman
+![top10_batsman](https://user-images.githubusercontent.com/42388234/161406129-612a1362-9bb4-4025-a146-d67048646c22.png)
  
 #### problem Statement  Top 10 individual Scores by batsman
 
@@ -45,6 +48,9 @@ Sum the Grouped `batsman` and `batsman_runs` and sort the in decending order,fil
  #### problem Statement =>  Wicket Takers
  
  Analyses the `Dismissal_kind` and plot
+
+##### Wicket Taker
+![Wicket_taker](https://user-images.githubusercontent.com/42388234/161406130-791bbeb8-a453-4f56-a30c-db5378e9ea9e.png)
 
 
  
