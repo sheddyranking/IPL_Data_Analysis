@@ -132,7 +132,7 @@ write a function to return the total number of wins by teams ans plot.
 ![MI_lucky](https://user-images.githubusercontent.com/42388234/162228900-981281eb-5ab1-4c46-8594-890c7c6b3fed.png)
 
 
-d.` Between two Teams on tComparisonhe Basis of there Wins`
+d.`Comparison Between two Teams on the Basis of there Wins`
 
 write a function to return the wins by each teams and plot.
 
