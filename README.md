@@ -56,49 +56,87 @@ Sum the Grouped `batsman` and `batsman_runs` and sort the in decending order,fil
 #### problem statement => Basic Analysis.(Matches Analysis)
 
 a.`Total Matches played`.
+
  shape[0]
 
 b.`Total Venus`.
+
 uinque count lenght on the cities
 
 c.`Total Teams`.
+
 unique count length on the teams
 
 d.`Most man of the match award`.
+
 value count on player of the match
 
 e.`Maxi. win by run`.
+
 do a filter on win by runs max.
 
 f.`highest win by wickets`.
+
 do a filter on win by wickets max.
 
 #### problem statement => Perform Analysis Across Seasons of IPL
 
 a.`Toss Decision Across seasons`.
+
 countplot on toss_decision.
 
+![Toss_decision_across_seasons](https://user-images.githubusercontent.com/42388234/162228129-dc76c9d9-4978-4da6-b69e-459af9e56c22.png)
+
+
 b.`max. Toss Winners`.
-value counts on toss_winners and plot.
+
+value counts on toss_winners and plot
+
+![max_toss_winner](https://user-images.githubusercontent.com/42388234/162228289-8ada4d4f-1745-4272-b8fd-cb15fb06c8a0.png)
+
 
 c.`Total Matches vs Wins for Teams`.
+
 do value counts on matches played and match wins, merge the data and plot.
 
+![matches_played_vs_matches_wins](https://user-images.githubusercontent.com/42388234/162228389-c0548c10-354a-4b2e-9dd3-43e9acfd29a8.png)
+
+
 d.`Matches Played Across Each Season`.
+
 countplot on season.
+
+![matches_played _across _each _season](https://user-images.githubusercontent.com/42388234/162228497-46010db6-9bef-456b-8c4f-d4400b051304.png)
+
 
 #### problem statement =>  Comparative Analysis of Teams
 
 a.`Runs Across seasons`
+
 Merge the deliveries and match df and do groupbby on the seasson on the bases of total_runs and plot.
 
+![total_runs](https://user-images.githubusercontent.com/42388234/162228692-bc60f5b7-1a96-4a39-afd7-c6028f5ce372.png)
+
+
 b.`Average Runs Per Match in Each Seasons`
+
 group the season by id and concat with season df and plot.
 
+![per_match_runs](https://user-images.githubusercontent.com/42388234/162228791-0eb80f3a-30fd-4c5c-a5d8-165524e94155.png)
+
+
 c.`Most Lucky Grounds for Teams`
+
 write a function to return the total number of wins by teams ans plot.
 
-d.` Between two Teams on tComparisonhe Basis of there Wins`
- write a function to return the wins by each teams and plot.
+![MI_lucky](https://user-images.githubusercontent.com/42388234/162228900-981281eb-5ab1-4c46-8594-890c7c6b3fed.png)
+
+
+d.`Comparison Between two Teams on the Basis of there Wins`
+
+write a function to return the wins by each teams and plot.
+
+ ![compare](https://user-images.githubusercontent.com/42388234/162228988-40c0a979-e1b1-49dd-be8c-72d4ae73e51c.png)
+
  
  
