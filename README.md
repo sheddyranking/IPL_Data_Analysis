@@ -69,13 +69,17 @@ do a filter on win by wickets max.
 
 #### problem statement => Perform Analysis Across Seasons of IPL
 
-a.`Toss Decision Across seasons`
+a.`Toss Decision Across seasons`.
+countplot on toss_decision.
 
-b.`max. Toss Winners`
+b.`max. Toss Winners`.
+value counts on toss_winners and plot.
 
-c.`Total Matches vs Wins for Teams`
+c.`Total Matches vs Wins for Teams`.
+do value counts on matches played and match wins, merge the data and plot.
 
-d.`Matches Played Across Each Season`
+d.`Matches Played Across Each Season`.
+countplot on season.
 
  
  
