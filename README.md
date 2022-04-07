@@ -47,6 +47,25 @@ Sum the Grouped `batsman` and `batsman_runs` and sort the in decending order,fil
  Analyses the `Dismissal_kind` and plot
 
 
+#### problem statement => Basic Analysis.(Matches Analysis)
+
+a.`Total Matches played`.
+ shape[0]
+
+b.`Total Venus`.
+uinque count lenght on the cities
+
+c.`Total Teams`.
+unique count length on the teams
+
+d.`Most man of the match award`.
+value count on player of the match
+
+e.`Maxi. win by run`.
+
+f.`highest win by wickets`.
+
+
  
  
  
