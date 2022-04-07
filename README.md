@@ -84,12 +84,15 @@ countplot on season.
 #### problem statement =>  Comparative Analysis of Teams
 
 a.`Runs Across seasons`
+Merge the deliveries and match df and do groupbby on the seasson on the bases of total_runs and plot.
 
 b.`Average Runs Per Match in Each Seasons`
+group the season by id and concat with season df and plot.
 
 c.`Most Lucky Grounds for Teams`
+write a function to return the total number of wins by teams ans plot.
 
-d.`Comparison Between two Teams on the Basis of there Wins`
- 
+d.` Between two Teams on tComparisonhe Basis of there Wins`
+ write a function to return the wins by each teams and plot.
  
  
