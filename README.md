@@ -81,6 +81,15 @@ do value counts on matches played and match wins, merge the data and plot.
 d.`Matches Played Across Each Season`.
 countplot on season.
 
+#### problem statement =>  Comparative Analysis of Teams
+
+a.`Runs Across seasons`
+
+b.`Average Runs Per Match in Each Seasons`
+
+c.`Most Lucky Grounds for Teams`
+
+d.`Comparison Between two Teams on the Basis of there Wins`
  
  
  
