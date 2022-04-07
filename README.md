@@ -62,9 +62,10 @@ d.`Most man of the match award`.
 value count on player of the match
 
 e.`Maxi. win by run`.
+do a filter on win by runs max.
 
 f.`highest win by wickets`.
-
+do a filter on win by wickets max.
 
  
  
