@@ -67,7 +67,16 @@ do a filter on win by runs max.
 f.`highest win by wickets`.
 do a filter on win by wickets max.
 
- 
+#### problem statement => Perform Analysis Across Seasons of IPL
+
+a.`Toss Decision Across seasons`
+
+b.`max. Toss Winners`
+
+c.`Total Matches vs Wins for Teams`
+
+d.`Matches Played Across Each Season`
+
  
  
  
